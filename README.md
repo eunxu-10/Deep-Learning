@@ -1,2 +1,2 @@
 # Deep-Learning
-:school: ITE4053
+:school: HYU ITE4053
